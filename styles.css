@@ -1,0 +1,16 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.youtubeicon{
+    width: 100px;
+    margin: 0, 0, 0, 4px;
+    padding: 1px, 2px;
+}
+.searchbox{
+    color:grey;
+}
+.videoicon{
+    width: 60px;
+}
